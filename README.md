@@ -19,7 +19,7 @@ If you use ANN-SoLo in your work, please cite the following publications:
 
 - Issar Arab, William E. Fondrie, Kris Laukens, and Wout Bittremieux. **Semisupervised Machine Learning for Sensitive Open Modification Spectral Library Searching.** _Journal of Proteome Research_ (2023). [doi:10.1021/acs.jproteome.2c00616](https://doi.org/10.1021/acs.jproteome.2c00616)
 
-- Issar Arab, Kris Laukens, and Wout Bittremieux. **Improved Open Modification Searching via Unified Spectral Search with Predicted Libraries and Enhanced Vector Representations in ANN-SoLo.** _Journal of Proteome Research_ (2026). [doi.org/10.1021/acs.jproteome.2c00616](https://doi.org/10.1021/acs.jproteome.5c00797)
+- Issar Arab, Kris Laukens, and Wout Bittremieux. **Improved Open Modification Searching via Unified Spectral Search with Predicted Libraries and Enhanced Vector Representations in ANN-SoLo.** _Journal of Proteome Research_ (2026). [doi.org/10.1021/acs.jproteome.5c00797](https://doi.org/10.1021/acs.jproteome.5c00797)
 
 Running ANN-SoLo
 ----------------
